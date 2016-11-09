@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="hasKitKat">true</bool>
+    <bool name="hasL">false</bool>
+    <bool name="preKitKat">false</bool>
+    <bool name="preL">true</bool>
+    <dimen name="slideshow_padding_top">24dp</dimen>
+    <style name="AppThemeDark" parent="AppBaseThemeDark">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="AppThemeLight" parent="AppBaseThemeLight">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

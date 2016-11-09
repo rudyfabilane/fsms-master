@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\settings_mms.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\settings_mms.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\settings_main.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\settings_main.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\settings_notifications.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\settings_notifications.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\mms_config.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\mms_config.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\settings_quickreply.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\settings_quickreply.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\google_analytics_tracker.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\google_analytics_tracker.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\widget_info.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\settings_general.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\settings_general.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\settings.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\apns.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\apns.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\settings_about.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\settings_about.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\settings_quickcompose.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\settings_quickcompose.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\xml\\settings_appearance.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\xml\\settings_appearance.xml"
+    }
+]

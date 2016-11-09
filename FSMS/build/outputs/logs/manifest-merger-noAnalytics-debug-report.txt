@@ -1,0 +1,835 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:2:1-398:12
+	package
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml
+		INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml
+		INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml
+		INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.READ_PROFILE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.READ_SMS
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:14:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:16:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:17:22-63
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:18:5-73
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:18:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.WRITE_SMS
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:26:5-71
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:26:22-68
+uses-permission#android.permission.INTERNET
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:27:22-64
+uses-feature#android.hardware.location
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:30:9-49
+uses-feature#android.hardware.location.network
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:33:9-57
+application
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:36:5-396:19
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.nispok:snackbar:2.10.6] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.nispok\snackbar\2.10.6\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:22.2.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:40:9-41
+	android:allowBackup
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:39:9-43
+	android:largeHeap
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:41:9-33
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:42:9-44
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:37:9-33
+activity#free.text.sms.ui.popup.QKComposeActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:43:9-63:20
+	android:excludeFromRecents
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:45:13-46
+	android:windowSoftInputMode
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:48:13-52
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:47:13-55
+	android:taskAffinity
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:44:13-55
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:49:13-55:29
+action#android.intent.action.SEND
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:52:27-73
+data
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:54:17-55
+	android:mimeType
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:54:23-52
+activity#free.text.sms.ui.MainActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:64:9-86:20
+	android:label
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:67:13-45
+	android:launchMode
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:68:13-44
+	android:windowSoftInputMode
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:70:13-70
+	android:icon
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:66:13-47
+	android:logo
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:69:13-46
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:65:13-44
+intent-filter#android.intent.action.MAIN+android.intent.action.SEND+android.intent.action.SENDTO+android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:71:13-85:29
+action#android.intent.action.VIEW
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:72:25-66
+action#android.intent.action.MAIN
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:73:17-69
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:73:25-66
+action#android.intent.action.SENDTO
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:75:17-71
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:75:25-68
+category#android.intent.category.BROWSABLE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:78:17-78
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:78:27-75
+activity-alias#free.text.sms.ui.MainActivity-Teal
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:88:9-99:26
+	android:enabled
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:90:13-35
+	android:label
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:92:13-45
+	android:targetActivity
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:93:13-54
+	android:icon
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:91:13-47
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:89:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:94:13-98:29
+category#android.intent.category.LAUNCHER
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:97:17-77
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:97:27-74
+activity#free.text.sms.ui.welcome.WelcomeActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:101:9-103:52
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:102:13-55
+activity#free.text.sms.ui.popup.QKReplyActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:106:9-111:58
+	android:excludeFromRecents
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:108:13-46
+	android:windowSoftInputMode
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:111:13-55
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:110:13-55
+	android:taskAffinity
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:109:13-36
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:107:13-53
+activity#free.text.sms.ui.mms.SlideshowActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:112:9-62
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:112:19-59
+receiver#free.text.sms.receiver.WearableIntentReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:114:9-120:20
+	android:exported
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:116:13-37
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:115:13-60
+intent-filter#free.text.sms.receiver.WearableIntentReceiver.REPLY
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:117:13-119:29
+action#free.text.sms.receiver.WearableIntentReceiver.REPLY
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:118:17-94
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:118:25-91
+receiver#free.text.sms.receiver.SmsReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:123:9-130:20
+	android:enabled
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:125:13-46
+	android:permission
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:126:13-66
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:124:13-49
+intent-filter#android.provider.Telephony.SMS_DELIVER
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:127:13-129:29
+action#android.provider.Telephony.SMS_DELIVER
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:128:17-81
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:128:25-78
+receiver#free.text.sms.receiver.IconColorReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:131:9-143:20
+	android:enabled
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:134:13-36
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:132:13-55
+intent-filter#android.intent.action.PACKAGE_CHANGED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:135:13-139:29
+action#android.intent.action.PACKAGE_CHANGED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:136:17-80
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:136:25-77
+intent-filter#free.text.sms.action.PENDING_PACKAGE_CHANGE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:140:13-142:29
+action#free.text.sms.action.PENDING_PACKAGE_CHANGE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:141:17-86
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:141:25-83
+receiver#free.text.sms.receiver.SmsReceiverLegacy
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:146:9-152:20
+	android:enabled
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:148:13-46
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:147:13-55
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:149:13-151:29
+	android:priority
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:149:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:150:17-82
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:150:25-79
+receiver#free.text.sms.receiver.PushReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:155:9-164:20
+	android:permission
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:157:13-71
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:156:13-50
+intent-filter#android.provider.Telephony.WAP_PUSH_DELIVER+android.provider.Telephony.WAP_PUSH_RECEIVED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:158:13-163:29
+action#android.provider.Telephony.WAP_PUSH_RECEIVED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:159:17-87
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:159:25-84
+action#android.provider.Telephony.WAP_PUSH_DELIVER
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:160:17-86
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:160:25-83
+receiver#free.text.sms.receiver.BootReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:165:9-169:20
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:165:19-56
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:166:13-168:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:167:17-79
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:167:25-76
+receiver#free.text.sms.mmssms.SentReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:170:9-174:20
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:170:19-54
+intent-filter#free.text.sms.SMS_SENT
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:171:13-173:29
+action#free.text.sms.SMS_SENT
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:172:17-65
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:172:25-62
+receiver#free.text.sms.receiver.DeliveredReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:175:9-179:20
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:175:19-61
+intent-filter#free.text.sms.SMS_DELIVERED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:176:13-178:29
+action#free.text.sms.SMS_DELIVERED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:177:17-70
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:177:25-67
+receiver#free.text.sms.receiver.MessageFailedReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:180:9-184:20
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:180:19-65
+intent-filter#free.text.sms.NOTIFY_SMS_FAILURE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:181:13-183:29
+action#free.text.sms.NOTIFY_SMS_FAILURE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:182:17-75
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:182:25-72
+receiver#free.text.sms.receiver.MarkReadReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:185:9-189:20
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:185:19-60
+intent-filter#free.text.sms.MARK_READ
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:186:13-188:29
+action#free.text.sms.MARK_READ
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:187:17-66
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:187:25-63
+receiver#free.text.sms.receiver.MarkSeenReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:190:9-194:20
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:190:19-60
+intent-filter#free.text.sms.MARK_SEEN
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:191:13-193:29
+action#free.text.sms.MARK_SEEN
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:192:17-66
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:192:25-63
+receiver#free.text.sms.ui.widget.WidgetProvider
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:195:9-206:20
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:195:19-59
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:196:13-198:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:197:17-84
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:197:25-81
+intent-filter#free.text.sms.intent.action.ACTION_NOTIFY_DATASET_CHANGED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:199:13-201:29
+action#free.text.sms.intent.action.ACTION_NOTIFY_DATASET_CHANGED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:200:17-100
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:200:25-97
+meta-data#android.appwidget.provider
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:203:13-205:55
+	android:resource
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:205:17-52
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:204:17-58
+receiver#free.text.sms.receiver.NightModeAutoReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:207:9-68
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:207:19-65
+receiver#free.mariussoft.endlessjabber.sdk.EndlessJabberReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:208:9-214:20
+	android:enabled
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:210:13-35
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:209:13-83
+intent-filter#com.mariussoft.endlessjabber.action.extend
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:211:13-213:29
+action#com.mariussoft.endlessjabber.action.extend
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:212:17-85
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:212:25-82
+service#free.mariussoft.endlessjabber.sdk.EndlessJabberWakefulService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:216:9-97
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:216:18-94
+service#free.text.sms.service.DeleteOldMessagesService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:217:9-69
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:217:18-66
+service#free.text.sms.receiver.UnreadBadgeService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:218:9-220:40
+	android:exported
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:220:13-37
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:219:13-56
+service#free.text.sms.service.ShouldIAnswerService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:221:9-225:19
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:221:18-62
+intent-filter#free.text.sms.ShouldIAnswerService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:222:13-224:29
+action#free.text.sms.ShouldIAnswerService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:223:17-77
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:223:25-74
+service#free.text.sms.service.HeadlessSmsSendService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:229:9-243:19
+	android:exported
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:231:13-36
+	android:permission
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:232:13-77
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:230:13-59
+intent-filter#android.intent.action.RESPOND_VIA_MESSAGE+android.intent.category.DEFAULT
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:233:13-242:29
+action#android.intent.action.RESPOND_VIA_MESSAGE
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:234:17-84
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:234:25-81
+service#free.android.mms.transaction.TransactionService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:245:9-83
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:245:18-80
+service#free.text.sms.service.NotificationService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:246:9-64
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:246:18-61
+service#free.text.sms.service.MarkReadService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:247:9-60
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:247:18-57
+service#free.text.sms.service.MarkSeenService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:248:9-60
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:248:18-57
+service#free.text.sms.service.DeleteUnreadMessageService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:249:9-71
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:249:18-68
+service#free.text.sms.service.CopyUnreadMessageTextService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:250:9-73
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:250:18-70
+service#free.text.sms.ui.widget.WidgetService
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:251:9-253:72
+	android:permission
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:253:13-69
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:252:13-52
+meta-data#io.fabric.ApiKey
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:255:9-257:33
+	android:value
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:257:13-30
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:256:13-44
+meta-data#com.appodeal.framework
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:262:9-264:39
+	android:value
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:264:13-36
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:263:13-50
+receiver#com.appodeal.ads.AppodealPackageAddedReceiver
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:265:9-273:20
+	android:enabled
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:267:13-35
+	android:exported
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:268:13-36
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:266:13-73
+intent-filter#android.intent.action.PACKAGE_ADDED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:269:13-272:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:270:17-78
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:270:25-75
+activity#com.appodeal.ads.InterstitialActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:275:9-278:75
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:277:13-59
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:278:13-72
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:276:13-65
+activity#com.appodeal.ads.VideoActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:279:9-282:75
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:281:13-59
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:282:13-72
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:280:13-58
+activity#com.appodeal.ads.LoaderActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:284:9-287:75
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:286:13-59
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:287:13-72
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:285:13-59
+meta-data#com.google.android.gms.version
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:289:9-291:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:291:13-66
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:290:13-58
+activity#com.google.android.gms.ads.AdActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:293:9-296:64
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:295:13-122
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:296:13-61
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:294:13-65
+activity#com.mopub.mobileads.MoPubActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:298:9-301:64
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:300:13-74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:301:13-61
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:299:13-61
+activity#com.mopub.common.MoPubBrowser
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:302:9-304:77
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:304:13-74
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:303:13-57
+activity#com.mopub.mobileads.MraidActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:305:9-307:77
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:307:13-74
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:306:13-61
+activity#com.mopub.mobileads.MraidVideoPlayerActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:308:9-310:77
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:310:13-74
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:309:13-72
+activity#org.nexage.sourcekit.mraid.MRAIDBrowser
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:312:9-315:64
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:314:13-83
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:315:13-61
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:313:13-67
+activity#com.amazon.device.ads.AdActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:318:9-320:77
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:320:13-74
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:319:13-60
+activity#org.nexage.sourcekit.vast.activity.VASTActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:322:9-324:74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:324:13-71
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:323:13-75
+activity#org.nexage.sourcekit.vast.activity.VPAIDActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:326:9-328:74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:328:13-71
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:327:13-76
+activity#com.appodeal.ads.networks.vpaid.VPAIDActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:331:9-333:74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:333:13-71
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:332:13-73
+activity#com.appodeal.ads.networks.SpotXActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:335:9-337:74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:337:13-71
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:336:13-67
+activity#com.facebook.ads.InterstitialAdActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:339:9-341:77
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:341:13-74
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:340:13-67
+activity#com.jirbo.adcolony.AdColonyOverlay
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:346:9-349:86
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:348:13-74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:349:13-83
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:347:13-62
+activity#com.jirbo.adcolony.AdColonyFullscreen
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:351:9-354:80
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:353:13-74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:354:13-77
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:352:13-65
+activity#com.jirbo.adcolony.AdColonyBrowser
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:356:9-359:80
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:358:13-74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:359:13-77
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:357:13-62
+activity#com.vungle.publisher.FullScreenAdActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:361:9-364:74
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:363:13-74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:364:13-71
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:362:13-69
+activity#com.startapp.android.publish.list3d.List3DActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:366:9-368:52
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:368:13-49
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:367:13-78
+activity#com.startapp.android.publish.OverlayActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:370:9-373:64
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:372:13-74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:373:13-61
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:371:13-72
+activity#com.startapp.android.publish.FullScreenActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:375:9-378:52
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:377:13-74
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:378:13-49
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:376:13-75
+activity#com.yandex.mobile.ads.AdActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:380:9-382:125
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:382:13-122
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:381:13-60
+activity#com.flurry.android.FlurryFullscreenTakeoverActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:385:9-387:125
+	android:configChanges
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:387:13-122
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:386:13-79
+activity#com.appodeal.ads.VideoPlayerActivity
+ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:389:9-391:80
+	android:theme
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:391:13-77
+	android:name
+		ADDED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml:390:13-64
+uses-sdk
+INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:22.2.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.klinkerapps:android-chips:1.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.klinkerapps\android-chips\1.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.nispok:snackbar:2.10.6] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.nispok\snackbar\2.10.6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:22.2.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.github.lzyzsd:circleprogress:1.1.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.github.lzyzsd\circleprogress\1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [org.ligi:snackengage:0.4] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\org.ligi\snackengage\0.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:22.2.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:22.2.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.2.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.pollfish:pollfish:4.3.1:googleplayRelease] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.pollfish\pollfish\4.3.1\googleplayRelease\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml
+		INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml
+		INJECTED from F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\src\main\AndroidManifest.xml
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:27:22-85
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:30:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:30:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:33:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.1] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.1\AndroidManifest.xml:33:22-80
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] F:\APP DEVELOPMENT 2016\Open Source\fsms-master\FSMS\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:19-85

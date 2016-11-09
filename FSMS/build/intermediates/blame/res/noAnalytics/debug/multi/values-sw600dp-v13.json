@@ -1,0 +1,446 @@
+[
+    {
+        "outputFile": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 42,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 68,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 68,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 69,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 69,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 69,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 434,
+                        "endColumn": 69,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 78,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 78,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 75,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 75,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 58,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endColumn": 58,
+                        "endOffset": 953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 70,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 70,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 67,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 67,
+                        "endOffset": 1332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 50,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 50,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 45,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 45,
+                        "endOffset": 419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 45,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endColumn": 45,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 41,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 41,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 62,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 62,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 63,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 63,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 64,
+                    "endOffset": 1032
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 64,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1037,
+                    "endColumn": 50,
+                    "endOffset": 1083
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 50,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1088,
+                    "endColumn": 50,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 50,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 91,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 91,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 45,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 45,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1277,
+                    "endColumn": 54,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1337,
+                        "endColumn": 54,
+                        "endOffset": 1387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 55,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 55,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1565
+                },
+                "from": {
+                    "file": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1245,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1422
+                    }
+                }
+            }
+        ]
+    }
+]

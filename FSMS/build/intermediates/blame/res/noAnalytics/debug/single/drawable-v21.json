@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-v21\\sb__btn_bg.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\drawable-v21\\sb__btn_bg.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-v21\\button_background_transparent.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-v21\\button_background_transparent.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-v21\\button_background_transparent_light.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-v21\\button_background_transparent_light.xml"
+    }
+]

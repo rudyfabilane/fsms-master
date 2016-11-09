@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\message_neutral.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\message_neutral.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_call.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_call.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_delete.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_12.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_12.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_04.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_04.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_mark_unread.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_mark_unread.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_play.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_05.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_05.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\message_sent_alt_2.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\message_sent_alt_2.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_notification_mms.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_notification_mms.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_unread_indicator.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_unread_indicator.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_13.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_13.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\message_sent_alt.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\message_sent_alt.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_reply.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_reply.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_timer.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_timer.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_info.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\message_received_alt_2.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\message_received_alt_2.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_settings.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_add.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_camera.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_cancel.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_15.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_15.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_search.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\message_sent.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\message_sent.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\message_received_alt.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\message_received_alt.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\message_received.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\message_received.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\fab_shadow_mini.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\drawable-xxxhdpi-v4\\fab_shadow_mini.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_error.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_error.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_attach_audio.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_attach_audio.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_notification.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_share_white_24dp.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_drop_down.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_drop_down.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_10.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_10.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_fold.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_fold.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_01.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_01.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_07.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_07.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_unselected.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_unselected.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_palette.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_palette.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\message_received_2.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\message_received_2.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_delivered.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_delivered.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_warning_black_36dp.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\ic_warning_black_36dp.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_02.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_02.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_notifications.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_arrow_right.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\message_neutral_2.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\message_neutral_2.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_notification_failed.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_notification_failed.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_08.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_08.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_photo.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_photo.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_mark_read.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_mark_read.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_lock.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_notifications_muted.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_notifications_muted.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_arrow_left.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_arrow_left.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_11.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_11.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_03.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_03.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_14.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_14.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_06.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_06.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_09.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_09.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_unfold.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_unfold.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\message_sent_2.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\message_sent_2.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_chat.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ab_shadow.9.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\ab_shadow.9.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_selected.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_selected.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_accept.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_accept.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_person.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_compose.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_compose.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\plus_to_arrow_00.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\drawable-xxxhdpi\\plus_to_arrow_00.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\ic_info_fill.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\generated\\res\\pngs\\noAnalytics\\debug\\drawable-xxxhdpi\\ic_info_fill.png"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\drawable-xxxhdpi-v4\\fab_shadow.png",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\drawable-xxxhdpi-v4\\fab_shadow.png"
+    }
+]

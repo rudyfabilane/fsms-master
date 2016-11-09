@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\interpolator\\sb__decelerate_cubic.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\interpolator\\sb__decelerate_cubic.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\interpolator\\sb__accelerate_cubic.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\interpolator\\sb__accelerate_cubic.xml"
+    }
+]

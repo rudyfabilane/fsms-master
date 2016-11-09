@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pollfish-4.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FSMS/build/intermediates/exploded-aar/com.pollfish/pollfish/4.3.1/googleplayRelease/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/FSMS/build/intermediates/exploded-aar/com.pollfish/pollfish/4.3.1/googleplayRelease/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

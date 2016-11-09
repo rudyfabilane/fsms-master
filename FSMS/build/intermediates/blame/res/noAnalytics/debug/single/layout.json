@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\dialog_delete_thread.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\dialog_delete_thread.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_conversation_widget.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_conversation_widget.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\fragment_conversations.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\fragment_conversations.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_simple.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_simple.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\dialog_redeem.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\dialog_redeem.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\chips_recipient_dropdown_item.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.0\\res\\layout\\chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\layout_tab_text.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\fragment_welcome_theme.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\fragment_welcome_theme.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_conversation.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_conversation.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\dialog_material.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\dialog_material.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\menu_frame.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\menu_frame.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_qk_response.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_qk_response.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\activity_qkreply.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\activity_qkreply.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\layout_tab_icon.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_preference_category.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_preference_category.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\dialog_color_picker.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\dialog_color_picker.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\sb__template.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.10.6\\res\\layout\\sb__template.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\view_toolbar.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\view_toolbar.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_message_out.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_message_out.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\fragment_search.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\fragment_welcome_night.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\fragment_welcome_night.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\view_favorite_contact.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\view_favorite_contact.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\toolbar.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_dual.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_dual.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_search.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_search.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\fragment_compose.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\fragment_compose.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\widget.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\widget.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_preference.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_preference.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_message_in.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_message_in.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\view_switch.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\view_switch.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\view_playing_audio.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\view_playing_audio.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_triple.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_triple.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\view_slideshow.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\view_slideshow.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\fragment_welcome_quickreply.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\fragment_welcome_quickreply.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\content_frame.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\content_frame.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\activity_qkcompose.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\activity_qkcompose.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\fragment_conversation.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\fragment_conversation.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\activity_welcome.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_contact.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_contact.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\dialog_conversation_details.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\dialog_conversation_details.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\view_compose.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\view_compose.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\copy_chip_dialog_layout.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.0\\res\\layout\\copy_chip_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\more_item.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.0\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\activity_main.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\layout_snackbar.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\list_item_recipient.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\list_item_recipient.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\chips_alternate_item.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.klinkerapps\\android-chips\\1.0.0\\res\\layout\\chips_alternate_item.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\dialog_bubbles.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\dialog_bubbles.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\view_mms_downloading.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\view_mms_downloading.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\widget_loading.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\widget_loading.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\view_starred_contacts.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\view_starred_contacts.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\view_color_picker_swatch.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\view_color_picker_swatch.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\fragment_welcome_greeting.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\src\\main\\res\\layout\\fragment_welcome_greeting.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\res\\merged\\noAnalytics\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\APP DEVELOPMENT 2016\\Open Source\\fsms-master\\FSMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    }
+]
